@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexanax)](https://github.com/olexanax/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olexanax)](https://github.com/olexanax/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olexanax&repo=github-readme-stats)](https://github.com/olexanax/github-readme-stats)
