@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Oleksandr
 #### I build things for the web
-![I build things for the web](https://i.ibb.co/Bs45QXH/photo-2023-05-08-16-22-40.jpg)
 
 I'm frontend developer with >1.5 years of commercial experience. Worked in product and outsourcing companies, developed CRM systems for enterprises, websites for large companies, personal CMS systems and landing pages. I have experience in project management at the development level.
 
