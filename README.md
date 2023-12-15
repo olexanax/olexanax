@@ -12,7 +12,7 @@ Skills: JavaScript (ES6+) / React / Redux / MobX / Toolkit / React Query / RTK Q
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexanax&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@denvud&theme=transparent)  
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@olexanax&theme=transparent)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olexanax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
