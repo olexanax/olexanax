@@ -1,19 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Oleksandr
+#### I build things for the web
+![I build things for the web](https://i.ibb.co/Bs45QXH/photo-2023-05-08-16-22-40.jpg)
 
-<!--
-**olexanax/olexanax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm frontend developer with >1.5 years of commercial experience. Worked in product and outsourcing companies, developed CRM systems for enterprises, websites for large companies, personal CMS systems and landing pages. I have experience in project management at the development level.
 
-Here are some ideas to get you started:
+Skills: JavaScript (ES6+) / React / Redux / MobX / Toolkit / React Query / RTK Query / Typescript / Next.js / Tailwind CSS / Ant Design / SCSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexanax)](https://github.com/olexanax/github-readme-stats)
+- 🌱 I'm looking for strong-junior/junior front-end position in a loyal team and company
+- 🔭 I’m currently working on my personal projects for my portfolio and a little bit of freelance
+- 💬 Ask me about what I know and what I can do ;)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olexanax&repo=github-readme-stats)](https://github.com/olexanax/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexanax&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@denvud&theme=transparent)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=olexanax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/olexanax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yurindmytro//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/olexanax/?hl=uk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/denvud91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dmytro-yurin-portfolio.vercel.app/)  
