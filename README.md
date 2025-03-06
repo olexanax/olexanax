@@ -14,8 +14,6 @@ Skills: JavaScript (ES6+) / React / Redux / MobX / Toolkit / React Query / RTK Q
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@olexanax&theme=transparent)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olexanax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/olexanax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksandr-sylko-74149825b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/olexanax/?hl=uk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/olexanax) 
