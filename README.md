@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Oleksandr
 #### I build things for the web
 ![I build things for the web](https://i.redd.it/2mhrqnmb7s941.jpg)
-I'm frontend developer with >1.5 years of commercial experience. Worked in product and outsourcing companies, developed CRM systems for enterprises, websites for large companies, personal CMS systems and landing pages. I have experience in project management at the development level.
+I'm frontend developer with >2 years of commercial experience. Worked in product and outsourcing companies, developed CRM systems for enterprises, websites for large companies, personal CMS systems and landing pages. I have experience in project management at the development level.
 
-Skills: JavaScript (ES6+) / React / Redux / MobX / Toolkit / React Query / RTK Query / Typescript / Next.js / Tailwind CSS / Ant Design / SCSS 
+Skills: JavaScript (ES6+) / Typescript / React / Redux / MobX / Toolkit / React Query / RTK Query / Next.js / Tailwind CSS / Ant Design / MUI / SCSS / Cypress / Jest
 
 - 🌱 I'm looking for strong-junior/junior front-end position in a loyal team and company
 - 🔭 I’m currently working on my personal projects for my portfolio and a little bit of freelance
