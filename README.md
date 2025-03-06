@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Oleksandr
 #### I build things for the web
 ![I build things for the web](https://i.redd.it/2mhrqnmb7s941.jpg)
+
 I'm frontend developer! Worked in product and outsourcing companies, developed CRM systems for enterprises, websites for large companies, personal CMS systems and landing pages. I have experience in project management at the development level.
 
 Skills: JavaScript (ES6+) / Typescript / React / Redux / MobX / Toolkit / React Query / RTK Query / Next.js / Tailwind CSS / Ant Design / MUI / SCSS / Cypress / Jest
@@ -9,10 +10,10 @@ Skills: JavaScript (ES6+) / Typescript / React / Redux / MobX / Toolkit / React 
 - 🔭 I’m currently working on my personal projects for my portfolio and a little bit of freelance
 - 💬 Ask me about what I know and what I can do ;)
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@olexanax)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olexanax&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@olexanax)  
 
 
 
