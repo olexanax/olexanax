@@ -16,3 +16,5 @@ Currently at **OBRIO (Genesis)**, shipping retention features for **Nebula** —
 **Stack:** React · TypeScript · Redux Toolkit · redux-saga · RTK Query / React Query · Next.js · SCSS · Vitest · GrowthBook · OpenTelemetry · Sentry · Grafana
 
 📫 [LinkedIn](https://linkedin.com/in/oleksandr-sylko-74149825b)
+
+![I build things for the web](https://i.redd.it/2mhrqnmb7s941.jpg)
